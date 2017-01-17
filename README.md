@@ -1,4 +1,3 @@
 # TabLayoutDemo
 
-
-惠普ios阿德号vusdbvpubl懊悔的死哦股份b
+TabLayout和ViewPager做的一个多项目栏切换Demo
